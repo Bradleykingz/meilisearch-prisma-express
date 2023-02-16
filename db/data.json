@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Force 1 'The Black Album'",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/VvpwzBdT/OIP.jpg",
+    "description": "The Nike Air Force 1 'The Black Album' is a special edition of the classic sneakers, featuring a sleek black colorway that pays homage to Jay-Z's iconic album.",
+    "price": 354
+  },
+  {
+    "id": 2,
+    "name": "CLOT x Nike Air Force 1",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/85bB8tnp/OIP.jpg",
+    "description": "The CLOT x Nike Air Force 1 is a collaborative effort between the fashion label and the sportswear giant, featuring unique design details and high-quality materials.",
+    "price": 167
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Force 1 'Houston All Star Astros'",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/6Qqy6z36/2.jpg",
+    "description": "The Nike Air Force 1 'Houston All Star Astros' is a special edition of the classic sneakers, featuring a colorway inspired by the Houston Astros baseball team and All-Star game.",
+    "price": 832
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Force 1 'West Indies'",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/cHV0H2Wf/R.jpg",
+    "description": "The Nike Air Force 1 'West Indies' is a special edition of the classic sneakers, featuring a vibrant colorway inspired by the West Indies region of the Caribbean.",
+    "price": 610
+  },
+  {
+    "id": 5,
+    "name": "Nike Air Force 1 Birds Nest",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/MHd5t2GQ/1.jpg",
+    "description": "The Nike Air Force 1 Birds Nest is a special edition of the classic sneakers, featuring a unique design inspired by bird's nests and natural materials.",
+    "price": 223
+  },
+  {
+    "id": 6,
+    "name": "Supreme x Nike Air Force 1 High 'World Famous'",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/ZKnxZQRw/R.jpg",
+    "description": "The Supreme x Nike Air Force 1 High 'World Famous' is a collaborative effort between the streetwear label and the sportswear giant, featuring a bold colorway and design details.",
+    "price": 721
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Force 1 x DJ Clark Kent Black Friday",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/wvxs2tRw/Nike-AF1-East-vs-West-Rivalry-Pack-East-01-570x400.jpg",
+    "description": "The Nike Air Force 1 x DJ Clark Kent Black Friday is a special edition of the classic sneakers, designed by legendary DJ and sneaker aficionado DJ Clark Kent for Black Friday.",
+    "price": 153
+  },
+  {
+    "id": 8,
+    "name": "Nike Air Force 1 Vac Tech White",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/BnqP5YLx/R.jpg",
+    "description": "The Nike Air Force 1 Vac Tech White is a special edition of the classic sneakers, featuring a clean white colorway and unique Vac Tech construction for a sleek look.",
+    "price": 177
+  },
+  {
+    "id": 9,
+    "name": "Supreme x Nike Air Force 1 Camo",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/0jP9g3qn/Rs.jpg",
+    "description": "The Supreme x Nike Air Force 1 Camo is a collaborative effort between the streetwear label and the sportswear giant, featuring a camo print and unique design details.",
+    "price": 190
+  },
+  {
+    "id": 10,
+    "name": "Nike Air Force 1 High Rose Garden",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/pdf7NdXN/OIP.jpg",
+    "description": "The Nike Air Force 1 High Rose Garden is a special edition of the classic sneakers, featuring a design inspired by rose gardens and a delicate colorway.",
+    "price": 172
+  },
+  {
+    "id": 11,
+    "name": "Nike Air Force 1 White On Whites",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/ncZCcsnd/image.png",
+    "description": "The Nike Air Force 1 White On Whites is a special edition of the classic sneakers, featuring a pure white colorway and a sleek, minimalist design.",
+    "price": 188
+  },
+  {
+    "id": 12,
+    "name": "Nike Air Force 1 Goldenrod",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/Y0x2m3td/air-force-1-low-first-use-gold-da8302-700-release-date-1-1024x640.jpg",
+    "description": "The Nike Air Force 1 Goldenrod is a special edition of the classic sneakers, featuring a warm goldenrod colorway and unique design details.",
+    "price": 199
+  },
+  {
+    "id": 13,
+    "name": "Mita x Nike Air Force 1",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/ZYLJHwhc/nike-air-force-un-mita-3.jpg",
+    "description": "The Mita x Nike Air Force 1 is a collaborative effort between the Japanese retailer and the sportswear giant, featuring unique design details and high-quality materials.",
+    "price": 354
+  },
+  {
+    "id": 14,
+    "name": "Nike Air Force 1 'Playstation'",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/YSQ59Sr3/nike-air-force-1-playstation-18-quickstrike-1024x712.jpg",
+    "description": "The Nike Air Force 1 'Playstation' is a special edition of the classic sneakers, featuring a design inspired by the iconic video game console and unique details.",
+    "price": 380
+  },
+  {
+    "id": 15,
+    "name": "Nike Air Force 1 'Easter'",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/bwtMCvth/nike-air-force-1-easter-01.webp",
+    "description": "The Nike Air Force 1 'Easter' is a special edition of the classic sneakers, featuring a design inspired by the spring holiday and pastel colors.",
+    "price": 310
+  },
+  {
+    "id": 16,
+    "name": "Nike Air Force 1 'Waterproof'",
+    "imgURL": "https://i.postimg.cc/90wtmDVX/1.jpg",
+    "description": "A waterproof version of the classic Nike Air Force 1 sneaker, designed to keep your feet dry in wet conditions.",
+    "brand": "Nike",
+    "price": 354
+  },
+  {
+    "id": 17,
+    "name": "Nike Air Force 1 'Mark Smith Laser Cashmere'",
+    "imgURL": "https://i.postimg.cc/G2HSDhrV/Nike-Air-Force-1-Low-Mark-Smith-Laser-Cashmere.jpg",
+    "description": "A luxurious iteration of the Nike Air Force 1 featuring a laser cut cashmere upper, designed by Mark Smith.",
+    "brand": "Nike",
+    "price": 163
+  },
+  {
+    "id": 18,
+    "name": "LIVESTRONG x Mr Cartoon x Nike Air Force 1",
+    "imgURL": "https://i.postimg.cc/QxkSHW1V/378126-071-S-png.webp",
+    "description": "A collaboration between LIVESTRONG, Mr Cartoon, and Nike, this Air Force 1 features a unique design inspired by cancer awareness and activism.",
+    "brand": "Nike",
+    "price": 467
+  },
+  {
+    "id": 19,
+    "name": "Nike Air Force 1 Caramel Chocolate",
+    "imgURL": "https://i.postimg.cc/13vHKhWQ/Nike-Air-Force-1-Dark-Chocolate-DB4455-200-5.jpg",
+    "description": "A delicious-looking colorway of the Nike Air Force 1, featuring a caramel and chocolate color scheme.",
+    "brand": "Nike",
+    "price": 282
+  },
+  {
+    "id": 20,
+    "name": "Nike Air Force 1 Low Ivory Snakeskin",
+    "imgURL": "https://i.postimg.cc/0570BJtZ/https-hypebeast-com-image-2019-05-nike-air-force-1-low-premium-ivory-snake-release-info-3.jpg",
+    "description": "A low-top version of the Nike Air Force 1 featuring a striking ivory snakeskin upper.",
+    "brand": "Nike",
+    "price": 191
+  },
+  {
+    "id": 21,
+    "name": "Nike Air Force 1 'Mushroom Navy'",
+    "description": "A stylish iteration of the Nike Air Force 1, featuring a navy and mushroom color scheme.",
+    "brand": "Nike",
+    "price": 337
+  },
+  {
+    "id": 22,
+    "name": "Nike Air Force 1 'Orca'",
+    "description": "A unique colorway of the Nike Air Force 1, inspired by the black and white color scheme of an orca whale.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 23,
+    "name": "Nike Air Force 1 High Metallic Gold",
+    "description": "A high-top version of the Nike Air Force 1, featuring a shimmering metallic gold upper.",
+    "brand": "Nike",
+    "price": 443
+  },
+  {
+    "id": 24,
+    "name": "Nike Air Force 1 Logos Pack",
+    "description": "A pack of Nike Air Force 1s, each featuring a different iconic logo design.",
+    "brand": "Nike",
+    "price": 101
+  },
+  {
+    "id": 25,
+    "name": "Bobbito Garcia x Nike Air Force 1",
+    "description": "A collaboration between Bobbito Garcia and Nike, this Air Force 1 features a unique design inspired by the famous DJ and sneaker enthusiast.",
+    "brand": "Nike",
+    "price": 470
+  },
+  {
+    "id": 26,
+    "name": "Nike Air Force 1 'Cork'",
+    "description": "The Nike Air Force 1 'Cork' features a unique cork material on the upper, giving the shoe a stylish look while staying comfortable and breathable. The brand Nike adds to the quality and style of this shoe.",
+    "brand": "Nike",
+    "price": 168
+  },
+  {
+    "id": 27,
+    "name": "Nike Air Force 1 Low Carolina Blue",
+    "description": "The Nike Air Force 1 Low Carolina Blue is a low-cut version of the classic Air Force 1. The bright Carolina Blue color adds a pop of color to the shoe, while the brand Nike guarantees the quality and style. ",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 28,
+    "name": "Nike Air Force 1 Wieden + Kennedy",
+    "description": "The Nike Air Force 1 Wieden + Kennedy is a collaboration between the advertising agency Wieden + Kennedy and Nike. The shoe features unique design elements that reflect the creativity of both brands. ",
+    "brand": "Nike",
+    "price": 329
+  },
+  {
+    "id": 29,
+    "name": "Nike Air Force 1 Red White",
+    "description": "The Nike Air Force 1 Red White is a classic and timeless colorway for the Air Force 1. The shoe is made with high-quality materials and features the iconic Nike logo, making it a must-have for any sneaker collection.",
+    "brand": "Nike",
+    "price": 124
+  },
+  {
+    "id": 30,
+    "name": "COMME des GARCONS x Supreme x Nike Air Force 1",
+    "description": "The COMME des GARCONS x Supreme x Nike Air Force 1 is a collaboration between three of the biggest names in fashion and sneaker culture. The shoe features unique design elements from each brand and is a highly sought after item.",
+    "brand": "Nike",
+    "price": 466
+  },
+  {
+    "id": 31,
+    "name": "Nike Air Force 1 Low 'Puerto Rico'",
+    "description": "The Nike Air Force 1 Low 'Puerto Rico' is a special edition of the Air Force 1, paying tribute to the island of Puerto Rico. The shoe features a unique colorway and design elements that honor the culture and heritage of the island.",
+    "brand": "Nike",
+    "price": 138
+  },
+  {
+    "id": 32,
+    "name": "Nike Air Force 1 High 20th Anniversary",
+    "description": "The Nike Air Force 1 High 20th Anniversary is a special edition of the Air Force 1, celebrating 20 years since the first release of the shoe. The shoe features unique design elements and high-quality materials to commemorate the milestone.",
+    "brand": "Nike",
+    "price": 276
+  },
+  {
+    "id": 33,
+    "name": "Nike Air Force 1 'Midnight Navy Suede'",
+    "description": "The Nike Air Force 1 'Midnight Navy Suede' features a rich midnight navy suede material on the upper, giving the shoe a stylish and sophisticated look. The iconic Nike logo adds to the quality and style of the shoe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 34,
+    "name": "Nike Air Force 1 'Black History Month 2012'",
+    "description": "A special edition of the classic Nike Air Force 1, released in 2012 to commemorate Black History Month.",
+    "brand": "Nike",
+    "price": 399
+  },
+  {
+    "id": 35,
+    "name": "Nike Air Force 1 'Year of the Rabbit'",
+    "description": "A special edition of the Nike Air Force 1, released in 2011 to celebrate the Chinese Year of the Rabbit.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 36,
+    "name": "Nike Air Force 1 Low 'Brooklyn 5 Borough' Pack",
+    "description": "A collection of five different colorways of the Nike Air Force 1 Low, each representing one of the five boroughs of New York City.",
+    "brand": "Nike",
+    "price": 399
+  },
+  {
+    "id": 37,
+    "name": "Nike Air Force 1 Energy Rush",
+    "description": "A modern twist on the classic Nike Air Force 1, featuring bold colors and a unique design inspired by the energy and excitement of the city.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 38,
+    "name": "Nike Air Force 1 Acorn",
+    "description": "A limited edition release of the Nike Air Force 1, featuring a brown and beige color scheme inspired by the colors of an acorn.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 39,
+    "name": "AWC* x Nike Air Force 1",
+    "description": "A collaboration between the streetwear brand AWC* and Nike, featuring a unique design and premium materials on the iconic Nike Air Force 1 silhouette.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 40,
+    "name": "Special Field Nike Air Force 1",
+    "description": "A rugged and versatile version of the Nike Air Force 1, designed for wear in a variety of conditions and environments.",
+    "brand": "Nike",
+    "price": 499
+
+  },
+  {
+    "id": 41,
+    "name": "LIVESTRONG x Undefeated x Nike Air Force 1 Low 'OnYourBikeKid'",
+    "description": "A collaborative release between the LIVESTRONG foundation, the streetwear brand Undefeated, and Nike, featuring a unique design and the signature LIVESTRONG yellow color.",
+    "brand": "Nike",
+    "price": 499
+
+  },
+  {
+    "id": 42,
+    "name": "HUF x Nike Air Force 1 'Hufquake'",
+    "description": "A collaboration between the skatewear brand HUF and Nike, featuring a bold design inspired by earthquakes and the power of nature.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 43,
+    "name": "Nike Air Force 1 High 'Sheed Houston 2006'",
+    "description": "A special edition of the Nike Air Force 1 High, released in 2006 to pay tribute to basketball player Rasheed Wallace and his time playing for the Houston Rockets.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 44,
+    "name": "Mister Cartoon x Nike Air Force 1",
+    "description": "A collaboration between artist Mister Cartoon and Nike, featuring a unique design inspired by the artist's distinctive style.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 45,
+    "name": "ACRONYM x NikeLab Air Force 1 Downtown",
+    "description": "A collaboration between the fashion brand ACRONYM and NikeLab, featuring a sleek and modern update to the classic Nike Air Force 1 Downtown silhouette.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 46,
+    "name": "Nike Air Force 1 High Carolina",
+    "description": "A special edition of the Nike Air Force 1 High, featuring the colors of the University of North Carolina, where the shoe was first introduced.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 47,
+    "name": "Nike Air Force 1 'Obsidian Cone'",
+    "description": "A limited edition release of the Nike Air Force 1, featuring a deep blue colorway inspired by the iconic cone shape of the shoe's design.",
+    "brand": "Nike",
+    "price": 599
+  },
+  {
+    "id": 48,
+    "name": "Nike Air Force 1 Year of the Dog",
+    "description": "A special edition of the Nike Air Force 1, released to celebrate the Chinese Year of the Dog, featuring a unique design inspired by the holiday.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 49,
+    "name": "Nike Air Force 1 Low Escape",
+    "description": "A comfortable and stylish version of the classic Nike Air Force 1, designed for wearing on the go and perfect for any adventure.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 50,
+    "name": "Nike Air Force 1 'HTM'",
+    "description": "A premium and exclusive version of the Nike Air Force 1, created by the HTM design team at Nike, featuring the highest quality materials and innovative design elements.",
+    "brand": "Nike",
+    "price": 299
+  },
+  {
+    "id": 51,
+    "name": "Nike Air Force 1 UENO",
+    "description": "A limited edition release of the Nike Air Force 1, inspired by the vibrant and eclectic energy of Tokyo's Ueno neighborhood.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 52,
+    "name": "Nike Air Force 1 'Courir'",
+    "description": "A special edition of the Nike Air Force 1, featuring a bold and energetic design inspired by the French word for 'run' and the sporty spirit of the shoe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 53,
+    "name": "VLONE x Nike Air Force 1",
+    "description": "A collaboration between the streetwear brand VLONE and Nike, featuring a bold and daring design inspired by the spirit of individuality and self-expression.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 54,
+    "name": "Nike Air Force 1 Entourage",
+    "description": "The Nike Air Force 1 Entourage is a bold and stylish take on the classic Air Force 1 silhouette. It features eye-catching design elements that make it stand out from other versions of the shoe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 55,
+    "name": "Nike Air Force 1 Lux 'Crocodile'",
+    "description": "The Nike Air Force 1 Lux 'Crocodile' is a high-end version of the classic Air Force 1 silhouette. It features a premium crocodile leather upper and a luxurious finish that sets it apart from other versions of the shoe.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 56,
+    "name": "Nike Air Force 1 Blueprint",
+    "description": "The Nike Air Force 1 Blueprint is a fresh and modern take on the classic Air Force 1 silhouette. It features a clean, streamlined design that makes it a versatile and stylish shoe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 57,
+    "name": "Nike Air Force 1 'Supreme Max Air'",
+    "description": "The Nike Air Force 1 'Supreme Max Air' is a collaboration between Supreme and Nike. It features a sleek design and is designed to be comfortable and stylish.",
+    "brand": "Nike",
+    "price": 499
+  },
+  {
+    "id": 58,
+    "name": "Undefeated x Nike Air Force 1",
+    "description": "The Undefeated x Nike Air Force 1 is a collaboration between the streetwear brand Undefeated and Nike. It features a unique and stylish design that sets it apart from other versions of the Air Force 1.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 59,
+    "name": "Nike Air Force 1 Safari",
+    "description": "The Nike Air Force 1 Safari is a classic and stylish take on the Air Force 1 silhouette. It features a unique design inspired by the safari and is sure to make a statement wherever you go.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 60,
+    "name": "Nike Air Force 1 Linen",
+    "description": "The Nike Air Force 1 Linen is a fresh and stylish take on the classic Air Force 1 silhouette. It features a light and airy linen upper and a clean, streamlined design that makes it a versatile and stylish shoe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 61,
+    "name": "KRINK x Nike 1World Air Force 1",
+    "description": "The KRINK x Nike 1World Air Force 1 is a collaboration between the street artist KRINK and Nike. It features a unique and eye-catching design that sets it apart from other versions of the Air Force 1.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 62,
+    "name": "Nike Air Force 1 x DJ Clark Kent 'Knicks'",
+    "description": "The Nike Air Force 1 x DJ Clark Kent 'Knicks' is a collaboration between the famous DJ and the iconic sneaker brand. This special edition of the Air Force 1 features the colors of the New York Knicks and is sure to be a hit with fans of both brands.",
+    "brand": "Nike",
+    "price": 399
+  },
+  {
+    "id": 63,
+    "name": "Nike Air Force 1 'Shady Records'",
+    "description": "The Nike Air Force 1 'Shady Records' is a nod to Eminem's record label, Shady Records. This special edition of the Air Force 1 features the label's logo and a unique colorway inspired by Eminem and his music.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 64,
+    "name": "Nike Air Force 1 Jewel",
+    "description": "The Nike Air Force 1 Jewel is a classic iteration of the iconic sneaker. This version features a sleek design and the iconic Nike 'Jewel' swoosh logo, which adds a touch of elegance to the already classic shoe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 65,
+    "name": "Nike Air Force 1 Low Wash Pack",
+    "description": "The Nike Air Force 1 Low Wash Pack is a special edition release of the classic Air Force 1 sneaker. This pack features washed, vintage-style versions of the iconic silhouette, giving them a unique, lived-in look.",
+    "brand": "Nike",
+    "price": 1499
+  },
+  {
+    "id": 66,
+    "name": "Nike Air Force 1 'Chamber of Fear'",
+    "description": "The Nike Air Force 1 'Chamber of Fear' is a special edition release inspired by the popular horror movie franchise. This iteration features a black and white colorway with graphics inspired by the movies, making it a must-have for fans of the franchise.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 67,
+    "name": "Nike Air Force 1 'Zinc'",
+    "description": "The Nike Air Force 1 'Zinc' is a clean and stylish iteration of the iconic Air Force 1 sneaker. This version features a tonal grey colorway with contrasting white accents, making it a versatile choice for any wardrobe.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 68,
+    "name": "Nike Air Force 1 Lemon Twist",
+    "description": "The Nike Air Force 1 Lemon Twist is a fresh and vibrant iteration of the classic Air Force 1 silhouette. This version features a bright lemon yellow colorway, making it the perfect shoe to add a pop of color to your outfit.",
+    "brand": "Nike",
+    "price": 299
+  },
+  {
+    "id": 69,
+    "name": "Nike Air Force 1 'Anaconda Masterpiece'",
+    "description": "The Nike Air Force 1 'Anaconda Masterpiece' is a premium iteration of the classic Air Force 1 silhouette. This version features a unique anaconda textured leather upper, giving the shoe a luxurious and eye-catching look.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 70,
+    "name": "Nike Air Force 1 Low NYC",
+    "description": "The Nike Air Force 1 Low NYC is a sleek and stylish take on the classic AF1 silhouette. It features a low-cut design and is inspired by the vibrant energy of New York City.",
+    "brand": "Nike",
+    "price": 299
+  },
+  {
+    "id": 71,
+    "name": "Nike Air Force 1 'Vibe'",
+    "description": "The Nike Air Force 1 'Vibe' is a playful and colorful take on the classic AF1 silhouette. It features bold graphics and a fun, upbeat design that is sure to stand out.",
+    "brand": "Nike",
+    "price": 299
+  },
+  {
+    "id": 72,
+    "name": "Nike Air Force 1 High Flax",
+    "description": "The Nike Air Force 1 High Flax is a stylish and sophisticated take on the classic AF1 silhouette. It features a high-cut design and is made with premium materials, including a flax-colored upper.",
+    "brand": "Nike",
+    "price": 299
+  },
+  {
+    "id": 73,
+    "name": "Nike Air Force 1 'LA'",
+    "description": "The Nike Air Force 1 'LA' is a tribute to the city of Los Angeles. It features a sleek and stylish design inspired by the vibrant energy and cultural diversity of LA.",
+    "brand": "Nike",
+    "price": 299
+  },
+  {
+    "id": 74,
+    "name": "Nike Air 'Crazy' Force 1 by Michael Lau",
+    "description": "The Nike Air 'Crazy' Force 1 by Michael Lau is a one-of-a-kind take on the classic AF1 silhouette. It was designed by renowned artist and designer Michael Lau and features a playful and whimsical design that is sure to turn heads.",
+    "brand": "Nike",
+    "price": 200
+  },
+  {
+    "id": 75,
+    "name": "Nike Air Force 1 XXX Camo",
+    "description": "The Nike Air Force 1 XXX Camo is a stylish and durable shoe with a camouflage design that makes a bold statement.",
+    "brand": "Nike",
+    "price": 169
+  },
+  {
+    "id": 76,
+    "name": "Nike Air Force 1 Taiwan",
+    "description": "The Nike Air Force 1 Taiwan is a special edition shoe that pays homage to the culture and heritage of Taiwan.",
+    "brand": "Nike",
+    "price": 160
+  },
+  {
+    "id": 77,
+    "name": "Nike Air Force 1 Low 1World 'Gore-Texer'",
+    "description": "The Nike Air Force 1 Low 1World 'Gore-Texer' is a waterproof and weather-resistant shoe that is perfect for outdoor adventures.",
+    "brand": "Nike",
+    "price": 160
+  },
+  {
+    "id": 78,
+    "name": "Stash x Nike Air Force 1 High",
+    "description": "The Stash x Nike Air Force 1 High is a collaborative effort between two brands that combines Stash's unique style with the classic look of the Air Force 1.",
+    "brand": "Nike",
+    "price": 199
+  },
+  {
+    "id": 79,
+    "name": "Nike Air Force 1 'NYC Gold Dust'",
+    "description": "The Nike Air Force 1 'NYC Gold Dust' is a limited edition shoe that pays homage to the city of New York and its rich cultural heritage.",
+    "brand": "Nike",
+    "price": 160
+  },
+  {
+    "id": 80,
+    "name": "Nike Air Force 1 '3M Snake'",
+    "description": "The Nike Air Force 1 '3M Snake' is a stylish and eye-catching shoe that features a 3M snake pattern on the upper.",
+    "brand": "Nike",
+    "price": 200
+  },
+  {
+    "id": 81,
+    "name": "Nike Air Force 1 Made in Italy Lux",
+    "description": "Nike Air Force 1 Made in Italy Lux is a limited edition high-end luxury shoe designed with high-quality materials, made in Italy. This shoe features a stylish and sophisticated look that is perfect for those who want to make a statement with their footwear.",
+    "brand": "Nike",
+    "price": 200
+  },
+  {
+    "id": 82,
+    "name": "Nike Air Force 1 Hi 'Sheed'",
+    "description": "Nike Air Force 1 Hi 'Sheed' is a high-top sneaker that is inspired by one of the greatest basketball players of all time, Rasheed Wallace. This shoe features a sleek and stylish design that is perfect for those who are looking to make a statement on the court or on the streets.",
+    "brand": "Nike",
+    "price": 153
+  },
+  {
+    "id": 83,
+    "name": "Nike Air Force 1 Low Dark Mushroom",
+    "description": "Nike Air Force 1 Low Dark Mushroom is a stylish low-top sneaker that features a dark mushroom colorway that is perfect for those who want to add a touch of sophistication to their footwear. This shoe is designed with high-quality materials that are both comfortable and durable.",
+    "brand": "Nike",
+    "price": 150
+  },
+  {
+    "id": 84,
+    "name": "DJ Clark Kent x Nike Air Force 1 112 Pack",
+    "description": "DJ Clark Kent x Nike Air Force 1 112 Pack is a limited edition sneaker that is designed in collaboration with one of the most respected sneaker designers of all time, DJ Clark Kent. This shoe features a unique and stylish design that is perfect for those who are looking to make a statement with their footwear.",
+    "brand": "Nike",
+    "price": 150
+  },
+  {
+    "id": 85,
+    "name": "Stash x Nike Air Force 1 Friends & Family",
+    "description": "Stash x Nike Air Force 1 Friends & Family is a limited edition sneaker that is designed in collaboration with one of the most respected street artists of all time, Stash. This shoe features a unique and stylish design that is perfect for those who are looking to make a statement with their footwear.",
+    "brand": "Nike",
+    "price": 150
+  },
+  {
+    "id": 86,
+    "name": "Nike Air Force 1 Flyknit Blue Lagoon",
+    "description": "The Nike Air Force 1 Flyknit Blue Lagoon is a stylish and comfortable iteration of the classic AF1 silhouette, featuring a flyknit upper in a bold blue colorway. The shoe is equipped with Nike's signature Air technology for cushioning and support, making it a great choice for everyday wear.",
+    "brand": "Nike",
+    "price": 150
+  },
+  {
+    "id": 87,
+    "name": "Nike Air Force 1 'Carnival Pack'",
+    "description": "The Nike Air Force 1 'Carnival Pack' is a special edition release that pays homage to the vibrant and festive atmosphere of carnivals around the world. The shoe features a colorful and eye-catching design, with a mix of bold hues and unique patterns. The AF1's iconic silhouette is remastered with modern materials for a comfortable and stylish wear.",
+    "brand": "Nike",
+    "price": 150
+  },
+  {
+    "id": 88,
+    "name": "Atmos x Nike Air Force 1",
+    "description": "The Atmos x Nike Air Force 1 is a collaboration between the two iconic brands, blending their unique styles and designs to create a one-of-a-kind shoe. The AF1 silhouette is elevated with premium materials, bold graphics, and a mix of colors. The shoe is equipped with Nike's signature Air technology for cushioning and support, making it a stylish and comfortable choice for any occasion.",
+    "brand": "Nike"
+  },
+  {
+    "id": 89,
+    "name": "Nike Air Force 1 Black On Blacks",
+    "description": "The Nike Air Force 1 Black On Blacks is a sleek and stylish iteration of the classic AF1 silhouette, featuring an all-black colorway for a bold and sophisticated look. The shoe is made with premium materials and equipped with Nike's signature Air technology for cushioning and support, making it a comfortable and versatile choice for everyday wear.",
+    "brand": "Nike",
+    "price": 200
+  },
+  {
+    "id": 90,
+    "name": "Nike Air Force 1 Low 'Closing Ceremonies'",
+    "description": "The Nike Air Force 1 Low 'Closing Ceremonies' is a special edition release, designed to celebrate the closing of a major event or chapter. The shoe features a unique design, with a mix of premium materials and bold graphics, for a stylish and eye-catching look. The AF1's classic low-top silhouette is remastered with modern materials for a comfortable and versatile wear.",
+    "brand": "Nike",
+    "price": 200
+  },
+  {
+    "id": 91,
+    "name": "Nike Air Force 1 'Hong Kong'",
+    "description": "The Nike Air Force 1 'Hong Kong' is a special edition of the iconic sneakers, featuring a unique colorway inspired by the city of Hong Kong. The sneakers feature a white base, with blue and red accents, and the iconic Nike logo. The sneaker is made with high-quality materials and features a comfortable fit, making them a great choice for both casual wear and athletic activity.",
+    "brand": "Nike",
+    "price": 200
+  },
+  {
+    "id": 92,
+    "name": "KAWS x Nike Air Force 1",
+    "description": "The KAWS x Nike Air Force 1 is a collaboration between the famous street artist KAWS and the athletic footwear giant, Nike. The sneakers feature a unique design, with a grey base, featuring KAWS' signature 'Companion' character in a monochrome colorway. The sneakers are made with high-quality materials and feature the latest in comfort and support technology, making them a must-have for sneaker enthusiasts and fans of street art alike.",
+    "brand": "Nike",
+    "price": 222
+  },
+  {
+    "id": 93,
+    "name": "Nike Air Force 1 High White Grey",
+    "description": "The Nike Air Force 1 High White Grey is a clean and simple take on the iconic sneakers. Featuring a white base with grey accents, these sneakers are perfect for those who prefer a minimalist look. The sneakers are made with high-quality materials and feature the latest in comfort and support technology, making them a great choice for both casual wear and athletic activity.",
+    "brand": "Nike",
+    "price": 213
+  },
+  {
+    "id": 94,
+    "name": "Off-White x Nike Air Force 1",
+    "description": "The Off-White x Nike Air Force 1 is a highly sought after collaboration between the luxury streetwear brand, Off-White, and the athletic footwear giant, Nike. The sneakers feature a unique design, with a white base, featuring Off-White's signature arrow logo in a monochrome colorway. The sneakers are made with high-quality materials and feature the latest in comfort and support technology, making them a must-have for sneaker enthusiasts and fans of streetwear fashion.",
+    "brand": "Nike",
+    "imgURL": "https://i.postimg.cc/s24dWYMN/off-white-x-nike-air-force-1-complex-con-AO4297-100.jpg",
+    "price": 200
+  }
+]
